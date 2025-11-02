@@ -39,6 +39,11 @@
 
 ### Schedules on 1040
 - schedule 1
+  - add'l income/deductions eg alimony, cap gains/losses, unemployment, educator expenses, hsa contributions
+ - schedule 2
+   - add'l taxes eg amt, excess credits for health insurance
+   - self employment taxes, unreported soc sec and medicare tax, add'l tax on ira, household employment tax, repayment of first time homebuyer credit, and foreign corps
+- schedule 3
   - 
 
 
