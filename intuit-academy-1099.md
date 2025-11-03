@@ -52,6 +52,13 @@
 - schedule b
   - interest and dividend income > 1.5k with amounts reported carrying to form 1040 lines 2 and 3
   - under 1.5k amounts don't need schedule b, but are still reported on 1040
-
+- schedule c
+  - self employed net p&l calculated and transferred to form 1040 line 3
+- schedule d
+  - capital gains and losses from investments
+- schedule e
+  - income and loss for pass-through entities, real estate, trusts, royalties
+- schedule f
+  - 
 
 
