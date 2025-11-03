@@ -59,6 +59,15 @@
 - schedule e
   - income and loss for pass-through entities, real estate, trusts, royalties
 - schedule f
-  - 
+  - 2 parts for additional credits and payments like schedule 3
+- schedule h
+  - household worker withholdings of social security and medicare
+- schedule j
+  - farmers and fisherman average 3 prev yrs of tax
+- schedule r
+  - credit for elderly and disabled
+- schedule eic
+  - earned income credit for qualifying child
+
 
 
