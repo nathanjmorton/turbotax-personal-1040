@@ -76,3 +76,19 @@
 
 ### Estimated Payments extensions and common errors
 - [estimated-payments](estimated_payments.pdf)
+#### Estimated Payments 
+- estimated payments are required for individuals, sole proprietors, partners, and s-corp shareholders unless:
+  - no prev yr tax liability
+  - us citizen or resident alien full year
+  - prev tax year 12 months
+- penalty can occur if owed more than $1k and not paid >= 90% of tax owed or 100% of prev year tax liability
+- 4 payment periods with penalties even for refunds
+- auto extension for federal disaster, military combat zones, nonresident citizens, and aliens living outside the US
+- extend online, use Free File electronically, or mail form 4868
+
+#### Common errors
+- misclassification of income (eg 1099-INT as exempte instead of taxable interest)
+- inaccurate status
+- schedule not included (transfer info from schedule to main form)
+- info not carried fwd (eg prior year unallowed passive activity losses on Form 8582 not reported)
+- misuse of social security number (eg alex claimed son who filed his own taxes as independent from parental support)
